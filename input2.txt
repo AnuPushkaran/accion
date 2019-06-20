@@ -1,0 +1,61 @@
+Before formatting start
+* This is an outline
+This is more an outline
+ 
+. It's not a very good outline
+ 
+.. I've seen better
+ 
+.. I've seen worse
+ 
+... I saw a really bad one back in 2008
+... I saw a really bad one back in 2009
+.... I saw a really bad one back in 2010
+.... I saw a really bad one back in 2011
+ 
+* This is the second numbered item in the outline
+ 
+. This is sub text that spans multiple lines
+ 
+This should be included with the previous line
+ 
+And this line too
+ 
+.. That is more sub text
+ 
+* Numbers
+More Number
+ 
+. Some text
+ 
+** Lots
+More Lots
+. Some more text
+ 
+. And some more
+ 
+*** And lots
+
+And Againt Lots
+ 
+. One
+ 
+.. Two
+ 
+... Three
+ 
+**** Of numbers
+ 
+. Another line
+ 
+** Less Numbers
+ 
+. Text
+ 
+*** More Numbers
+ 
+. Blah
+ 
+* One number again
+ 
+. The last line
